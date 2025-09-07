@@ -1,6 +1,6 @@
 // Variables globales - SonarQube suele detectar esto como problema
-var counter = 0;
-var items = ["uno", "dos", "tres"];
+let counter = 0;
+let items = ["uno", "dos", "tres"];
 
 // Función con complejidad alta - código duplicado
 function processItems() {
